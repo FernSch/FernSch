@@ -32,3 +32,8 @@
   </li>
       </p>
       </details>
+     <details><summary>The Blue Alliance Discord Bot</summary></br>
+  <li>
+  <a href="https://top.gg/bot/954886901393932288">top.gg page</p>
+  </li>
+</details>
