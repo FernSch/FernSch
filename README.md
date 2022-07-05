@@ -17,3 +17,13 @@
       Java
     </li>
 </p>
+
+  
+# Some of my work
+  
+  <p>
+    <details><summary>Bully Bot Discord Bot</summary><br/>
+  <li>
+  [top.gg page](https://top.gg/bot/838887977345613864)
+      </li>
+      </p>
