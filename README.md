@@ -2,6 +2,8 @@
 
 <p>
 <details><summary>Languages Im Confident In</summary><br/>
--Python
+  <li>
+  Python
+  </li>
 </details>
 </p>
