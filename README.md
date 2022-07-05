@@ -37,6 +37,8 @@
   <a href="https://top.gg/bot/954886901393932288">top.gg page</a>
   </li>
 </details>
+  <p>
+    <details><summary>Repos</summary></br>
 <li>
   <a href="https://github.com/FernSch/spotify-live-playblack">fork of spotify live playback that supports Discord Rich Presence</a>
 </li>
@@ -55,4 +57,5 @@
   <li>
 <a href="https://github.com/FernSch/luhn-algor"> Luhn algorithm to check validity of credit card </a>
 </li>
-
+</p>
+</details>
