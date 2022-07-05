@@ -25,6 +25,6 @@
   <p>
     <details><summary>Bully Bot Discord Bot</summary></br>
   <li>
-    [top.gg page] (https://top.gg/bot/838887977345613864)
+    <a href="https://top.gg/bot/838887977345613864" target=" ">top.gg page</a>
       </li>
       </p>
