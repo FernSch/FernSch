@@ -16,6 +16,7 @@
     <li>
       Java
     </li>
+ </details>
 </p>
 
   
