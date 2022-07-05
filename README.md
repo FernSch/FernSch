@@ -27,4 +27,8 @@
   <li>
     <a href="https://top.gg/bot/838887977345613864" target="">top.gg page</a>
       </li>
+  <li>
+    <a href="https://top.gg/servers/842053447934017547"> discord server </a>
+  </li>
       </p>
+      </details>
