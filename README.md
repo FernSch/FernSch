@@ -6,4 +6,14 @@
   Python
   </li>
 </details>
+  <details><summary>Languages Im Learning</summary><br/>
+    <li>
+      HTML
+     </li>
+    <li>
+      CSS
+      </li>
+    <li>
+      Java
+    </li>
 </p>
