@@ -5,6 +5,9 @@
   <li>
   Python
   </li>
+  <li>
+  C++ 
+  </li>
 </details>
   <details><summary>Languages Im Learning</summary><br/>
     <li>
