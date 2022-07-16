@@ -1,6 +1,13 @@
 # Hi There! Im Fern 👋
 ``` All Pronouns ```
 
+<img src = "github.svg" href = "https://github.com/FernSch" width="25" height="25"></img> - FernSch
+
+<img src = "Instagram_logo_2016.svg" href = "https://instagram.com/fern_sux" width = "25" height = "25"></img> - fern_sux
+
+<img src = "Twitter_bird_logo_2012.svg" href = "https://twitter.com/fern_sucks" width = "25" height = "25"></img> - fern_sucks
+
+
 <p>
 <details><summary>Languages Im Confident In</summary></br>
   <li>
