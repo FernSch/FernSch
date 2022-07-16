@@ -3,13 +3,22 @@
 
 <img src="DSC_0959.jpg" height="100"></img>
 
+<p>
+<details><summary>Socials</summary></br>
+
+<li>
 <img src = "github.svg" href = "https://github.com/FernSch" width="25" height="25"></img> - FernSch
-
+</li>
+<li>
 <img src = "Instagram_logo_2016.svg" href = "https://instagram.com/fern_sux" width = "25" height = "25"></img> - fern_sux
-
+</li>
+<li>
 <img src = "Twitter_bird_logo_2012.svg" href = "https://twitter.com/fern_sucks" width = "25" height = "25"></img> - fern_sucks
+</li>
+</p>
+</details>
 
-
+<img></img>
 
 <p>
 <details><summary>Languages Im Confident In</summary></br>
