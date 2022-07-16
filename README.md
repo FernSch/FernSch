@@ -1,5 +1,6 @@
 # Hi There! Im Fern 👋
 ``` All Pronouns ```
+
 <p>
 <details><summary>Languages Im Confident In</summary></br>
   <li>
@@ -27,6 +28,11 @@
   
   <p>
     <details><summary>Bully Bot Discord Bot</summary></br>
+    <li>
+    <a href="https://top.gg/bot/838887977345613864">
+  <img src="https://top.gg/api/widget/owner/838887977345613864.svg">
+</a>
+    </li>
   <li>
     <a href="https://top.gg/bot/838887977345613864" target="">top.gg page</a>
       </li>
