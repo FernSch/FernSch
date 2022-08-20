@@ -1,8 +1,7 @@
 # Hi There! Im Fern 👋
 ``` All Pronouns ```
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="‎james-schoenberg-555924248" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/%E2%80%8Ejames-schoenberg-555924248?trk=profile-badge">‎James Schoenberg</a></div>
-              
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="‎james-schoenberg-555924248" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/%E2%80%8Ejames-schoenberg-555924248?trk=profile-badge">‎Linkedin Page</a></div>
 
 
 <a href="https://fernsch.github.io">github website</a>
