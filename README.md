@@ -35,6 +35,9 @@
   <li>
   C++ 
   </li>
+  <li>
+    Java
+  </li>
 </details>
   <details><summary>Languages Im Learning</summary><br/>
     <li>
