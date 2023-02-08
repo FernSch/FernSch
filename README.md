@@ -46,9 +46,6 @@
     <li>
       CSS
       </li>
-    <li>
-      Java
-    </li>
  </details>
 </p>
 
