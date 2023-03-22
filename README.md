@@ -1,3 +1,5 @@
+<img src="https://api.githubtrends.io/user/svg/FernSch/langs?time_range=one_year&theme=dark"><img>
+
 # Hi There! Im Fern 👋
 ``` All Pronouns ```
 
