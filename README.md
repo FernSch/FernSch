@@ -6,9 +6,6 @@
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="‎james-schoenberg-555924248" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/%E2%80%8Ejames-schoenberg-555924248?trk=profile-badge">‎Linkedin Page</a></div>
 
 
-<a href="https://fernsch.github.io">github website</a>
-
-<a href="https://schoenberg.netlify.app">other dev website</a>
 
 <img src="DSC_0959.jpg" height="100"></img>
 
@@ -19,10 +16,10 @@
 <img src = "github.svg" href = "https://github.com/FernSch" width="25" height="25"></img> - FernSch
 </li>
 <li>
-<img src = "Instagram_logo_2016.svg" href = "https://instagram.com/fern_sux" width = "25" height = "25"></img> - fern_sux
+<img src = "Instagram_logo_2016.svg" href = "https://instagram.com/fern_sux" width = "25" height = "25"></img> - 102vfe_rn
 </li>
 <li>
-<img src = "Twitter_bird_logo_2012.svg" href = "https://twitter.com/fern_sucks" width = "25" height = "25"></img> - fern_sucks
+<img src = "Twitter_bird_logo_2012.svg" href = "https://twitter.com/fern_sucks" width = "25" height = "25"></img> - 102vfe_rn
 </li>
 </p>
 </details>
