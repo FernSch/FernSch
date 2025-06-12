@@ -2,8 +2,9 @@
 
 # Hi There! Im Fern 👋
 ``` She/Her ```
+``` Private Pilot/Instrument Student```
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="‎james-schoenberg-555924248" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/%E2%80%8Ejames-schoenberg-555924248?trk=profile-badge">‎Linkedin Page</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="‎james-schoenberg-555924248" data-version="v1"><a 
 
 
 
